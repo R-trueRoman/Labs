@@ -1,0 +1,24 @@
+E:\Labfiles\Lab 6\Ex 4\Solution\Nullable Structs Unit Test Project\bin\Debug\Unit Tests for Module 6.dll
+E:\Labfiles\Lab 6\Ex 4\Solution\Nullable Structs Unit Test Project\bin\Debug\Unit Tests for Module 6.pdb
+E:\Labfiles\Lab 6\Ex 4\Solution\Nullable Structs Unit Test Project\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 6\Ex 4\Solution\Nullable Structs Unit Test Project\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 6\Ex 4\Solution\Nullable Structs Unit Test Project\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 6\Ex 4\Solution\Nullable Structs Unit Test Project\obj\Debug\Unit Tests for Module 6.dll
+E:\Labfiles\Lab 6\Ex 4\Solution\Nullable Structs Unit Test Project\obj\Debug\Unit Tests for Module 6.pdb
+E:\Labfiles\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\bin\Debug\Unit Tests for Module 6.dll
+E:\Labfiles\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\bin\Debug\Unit Tests for Module 6.pdb
+E:\Labfiles\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\obj\Debug\Unit Tests for Module 6.dll
+E:\Labfiles\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\obj\Debug\Unit Tests for Module 6.pdb
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\bin\Debug\Unit Tests for Module 6.dll
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\bin\Debug\Unit Tests for Module 6.pdb
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\bin\Debug\StressTest.dll
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\bin\Debug\StressTest.pdb
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\obj\Debug\TestNullableStructs.csproj.AssemblyReference.cache
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\obj\Debug\TestNullableStructs.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\obj\Debug\TestNullableStructs.csproj.CopyComplete
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\obj\Debug\Unit Tests for Module 6.dll
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\Nullable Structs Unit Test Project\obj\Debug\Unit Tests for Module 6.pdb

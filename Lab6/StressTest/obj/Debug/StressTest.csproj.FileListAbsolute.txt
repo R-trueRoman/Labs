@@ -1,0 +1,21 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\StressTest\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\StressTest\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\StressTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\StressTest\obj\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 3 - Classes\Solution\StressTest\obj\Debug\StressTest.pdb
+E:\Labfiles\Lab 6\Ex 4\Solution\StressTest\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 6\Ex 4\Solution\StressTest\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 6\Ex 4\Solution\StressTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 6\Ex 4\Solution\StressTest\obj\Debug\StressTest.dll
+E:\Labfiles\Lab 6\Ex 4\Solution\StressTest\obj\Debug\StressTest.pdb
+E:\Labfiles\Lab 6\Ex4\Solution\StressTest\bin\Debug\StressTest.dll
+E:\Labfiles\Lab 6\Ex4\Solution\StressTest\bin\Debug\StressTest.pdb
+E:\Labfiles\Lab 6\Ex4\Solution\StressTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 6\Ex4\Solution\StressTest\obj\Debug\StressTest.dll
+E:\Labfiles\Lab 6\Ex4\Solution\StressTest\obj\Debug\StressTest.pdb
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\StressTest\bin\Debug\StressTest.dll
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\StressTest\bin\Debug\StressTest.pdb
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\StressTest\obj\Debug\StressTest.csproj.AssemblyReference.cache
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\StressTest\obj\Debug\StressTest.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\StressTest\obj\Debug\StressTest.dll
+C:\Users\roman\Desktop\C#\Lab 6\Ex4\Solution\StressTest\obj\Debug\StressTest.pdb
