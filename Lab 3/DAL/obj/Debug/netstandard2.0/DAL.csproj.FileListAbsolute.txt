@@ -1,0 +1,9 @@
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod03\LabFiles\Solution\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod03\LabFiles\Solution\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod03\LabFiles\Solution\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod03\LabFiles\Solution\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod03\LabFiles\Solution\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod03\LabFiles\Solution\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod03\LabFiles\Solution\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod03\LabFiles\Solution\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\sela\Azure-20487D\20487D-Developing-Microsoft-Azure-and-Web-Services\Allfiles\Mod03\LabFiles\Solution\DAL\obj\Debug\netstandard2.0\DAL.pdb
